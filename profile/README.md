@@ -12,7 +12,6 @@ We design and develop **custom software systems**, **web platforms**, and **tool
 
 - 🧠 **Elixir / Phoenix LiveView** – For resilient, real-time systems.
 - 🧩 **PostgreSQL** – Rock-solid, relational data.
-- ⚡️ **Python / Fox AI Stuffs** – Strong for AI, Full of People there for help and research.
 - 🧰 **Custom-built CMS & tools** – Because templates don’t fit bold ideas.
 
 ## Featured Tools
@@ -30,7 +29,7 @@ We don’t chase trends. We craft solutions that matter. Whether it’s streamli
 
 Got an idea? Want to collaborate? Reach out.
 
-📬 hello@foxlabsdevelopers.com  
+📬 info@foxlabsdevelopers.com  
 🌐 [https://foxlabsdevelopers.com](https://foxlabsdevelopers.com)
 
 ---
